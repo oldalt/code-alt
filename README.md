@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif
+![https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif]()
 
 ### Hi there 👋
 
@@ -20,4 +20,4 @@ some other things about me
 * I've been making and breaking, so who even cares about my projects
 * Learn Code is awesome :D
 
-ugh... so I guess that's all I have for today... I shall write some more readmes, I guess
+Ugh... so I guess that's all I have for today... I shall write some more readmes, I guess
