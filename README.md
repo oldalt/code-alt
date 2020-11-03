@@ -18,6 +18,6 @@ some other things about me
 
 * Everything I code is open source
 * I've been making and breaking, so who even cares about my projects
-* Learn Code is awesome :D
+* Learn Code is awesome :smiley:
 
 Ugh... so I guess that's all I have for today... I shall write some more readmes, I guess
